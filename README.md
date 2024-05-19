@@ -19,7 +19,7 @@ This project showcases:
 
 ## 📸 Screenshots & Demo
 
-![Login Demo](images/LoginScreen.gif)
+![Login Demo](Images/LoginScreen.gif)
 ![Registration Demo](images/RegistrationScreeen.gif)
 
 ## 🛠️ Installation
