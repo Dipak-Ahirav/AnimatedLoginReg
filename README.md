@@ -18,8 +18,10 @@ This project showcases:
 - **registration.css**: Additional styles for the registration form.
 
 ## 📸 Screenshots & Demo
-
+## Login
 ![Login Demo](Images/LoginScreen.gif)
+
+## Registration
 ![Registration Demo](Images/RegistrationScreeen.gif)
 
 ## 🛠️ Installation
